@@ -28,3 +28,5 @@ Script externo encontrado: https://www.exemplo.com/script.js
 Metadado encontrado: description=Este é um site de exemplo
 Extraindo subdomínios...
 Nenhum subdomínio encontrado.
+
+by brunod3vs
